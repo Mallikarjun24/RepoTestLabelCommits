@@ -2,10 +2,27 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>36.0</version>
     <types>
+        <members>ApexTest1</members>
+        <members>OlderAccountsUtility</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>Demo__c.GoalName__c</members>
         <members>Demo__c.StudentName__c</members>
         <members>Depart__c.DepartAddr__c</members>
         <members>Depart__c.DepartNo__c</members>
+        <members>testlabel__c.phone__c</members>
+        <members>testlabel__c.testlabelDesc__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>custlb1</members>
+        <members>custlb2</members>
+        <members>custlbl3</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Demo__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
