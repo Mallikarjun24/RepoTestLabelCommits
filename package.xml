@@ -4,6 +4,8 @@
     <types>
         <members>ApexTest1</members>
         <members>OlderAccountsUtility</members>
+        <members>Sample</members>
+        <members>c3</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -11,11 +13,17 @@
         <members>Demo__c.StudentName__c</members>
         <members>Depart__c.DepartAddr__c</members>
         <members>Depart__c.DepartNo__c</members>
+        <members>cokeobj__c.cokefld2__c</members>
+        <members>cokeobj__c.cokefld__c</members>
         <members>testlabel__c.phone__c</members>
         <members>testlabel__c.testlabelDesc__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>cokelab</members>
+        <members>cokelab1</members>
+        <members>custlabelA</members>
+        <members>custlabelB</members>
         <members>custlb1</members>
         <members>custlb2</members>
         <members>custlbl3</members>
@@ -23,6 +31,7 @@
     </types>
     <types>
         <members>Demo__c</members>
+        <members>cokeobj__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
