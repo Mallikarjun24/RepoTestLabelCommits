@@ -41,4 +41,9 @@
         <members>cokeobj__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Student__c.All</members>
+        <members>Vehicle__c.All</members>
+        <name>ListView</name>
+    </types>
 </Package>
