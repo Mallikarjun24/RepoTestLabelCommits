@@ -15,6 +15,11 @@
         <members>Depart__c.DepartNo__c</members>
         <members>cokeobj__c.cokefld2__c</members>
         <members>cokeobj__c.cokefld__c</members>
+        <members>custobja__c.custobjafld__c</members>
+        <members>custobjj__c.custfld2__c</members>
+        <members>custobjj__c.custfld__c</members>
+        <members>custobjobj__c.custobjobjfld2__c</members>
+        <members>custobjobj__c.custobjobjfld__c</members>
         <members>testlabel__c.phone__c</members>
         <members>testlabel__c.testlabelDesc__c</members>
         <name>CustomField</name>
@@ -27,6 +32,8 @@
         <members>custlb1</members>
         <members>custlb2</members>
         <members>custlbl3</members>
+        <members>custlbl5</members>
+        <members>custlbl6</members>
         <name>CustomLabel</name>
     </types>
     <types>
